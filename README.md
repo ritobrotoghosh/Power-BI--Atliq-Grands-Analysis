@@ -8,43 +8,38 @@ Link to [Interactive Dashboard](https://www.novypro.com/project/atliq-grands-4)
 
 ## Problem statement
 
-Atliq Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Atliq Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
+Atliq Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Atliq Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights. Their revenue management team has decided to hire a 3rd party service provider to provide them insights from their historical data.
 
-Their revenue management team had decided to hire a 3rd party service provider to provide them insights from their historical data.
+## Task List
 
-### Task List
+As a data analyst you are responsible for working on the following tasks:
 
-You are a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task.
-
-- Create the metrics according to the metric list. 
+- Formulate all the necessary metrics. 
 - Create a dashboard according to the mock-up provided by stakeholders. 
-- Create relevant insights that are not provided in the metric list/mock-up dashboard.
+- Generate relevant insights from the same.
 
 ## Provided Mock-up Dashboard
-Link to [Mock-up Dashboard](https://github.com/ritobrotoghosh/PowerBI-AtliQGrandsHospitalityAnalysis/blob/main/mock%20up%20dashboard_atliq%20grands.png)
 
+<p align="center">
+    <img src='https://github.com/ritobrotoghosh/Power-BI--Atliq-Grands-Analysis/blob/main/Mockup%20Dashboard.png' height="400">
+</p>
 
 ## Data Model
 
 <p align="center">
-    <img src='https://github.com/ritobrotoghosh/PowerBI-AtliQGrandsHospitalityAnalysis/blob/main/AG%20-%20Data%20Model.png' height="400">
+    <img src='https://github.com/ritobrotoghosh/Power-BI--Atliq-Grands-Analysis/blob/main/Data%20Model.png' height="400">
 </p>
 
-
-## Overall Analysis View
-
-<p align="center">
-    <img src='https://github.com/ritobrotoghosh/PowerBI-AtliQGrandsHospitalityAnalysis/blob/main/AG%20Overall%20Analysis.png' width="600">
-</p>
+## Overview
 
 <p align="center">
-    <img src='https://github.com/ritobrotoghosh/PowerBI-AtliQGrandsHospitalityAnalysis/blob/main/AG%20-%20Overall%20Analysis%20Pt%202.png' width="600">
+    <img src='https://github.com/ritobrotoghosh/Power-BI--Atliq-Grands-Analysis/blob/main/Overview.png' width="600">
 </p>
 
 ## Monthly Analysis View
 
 <p align="center">
-    <img src='https://github.com/ritobrotoghosh/PowerBI-AtliQGrandsHospitalityAnalysis/blob/main/AG%20-%20Monthly%20Analysis.png' width="600">
+    <img src='https://github.com/ritobrotoghosh/Power-BI--Atliq-Grands-Analysis/blob/main/Monthly%20Analysis.png' width="600">
 </p>
 
 ## Some Important insights from the Dashboard
