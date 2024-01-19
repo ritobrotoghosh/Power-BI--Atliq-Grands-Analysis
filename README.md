@@ -1,6 +1,6 @@
 # Power-BI--Atliq-Grands-Analysis
 
-The creation of this dashboard was undertaken as a component of the CodeBasics Resume Challenge.
+This project was a challenge from Codebasics, where we were given a problem statement and a dataset.
 
 Link to [Presentation Video](https://www.linkedin.com/posts/ritobrotoghosh_powerbi-powerbideveloper-powerbidashboard-activity-7153612355472404480-3REk?utm_source=share&utm_medium=member_desktop)
 
@@ -44,9 +44,19 @@ As a data analyst you are responsible for working on the following tasks:
 
 ## Some Important insights from the Dashboard
 
-- Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi
+- Total Revenue - 1.7 bn (INR)
+- Occupancy Rate (OR) - 57.87%
+- Average Rating - 3.62
+- Cancellation Rate - 24.83%
+- Revenue Lost Due To Cancellations (RLDC) - 298.77 M (INR)
+- Mumbai generates 39% of the total revenue followed by Bangalore (24.6%), Hyderabad (19%) and Delhi (17%)
 - AtliQ Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.4%.
 - AtliQ Bay has the highest occupancy of 66%
 - Week 24 recorded the highest revenue among all, which is 139.6 Million
 - Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
 - Elite type rooms has the most booking and as well higher cancellation rate
+
+## New Learnings
+
+- Calendar Visual
+- Custom Tooltip
