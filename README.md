@@ -4,7 +4,7 @@ This project was a challenge from Codebasics, where we were given a problem stat
 
 Link to [Presentation Video](https://www.linkedin.com/posts/ritobrotoghosh_powerbi-powerbideveloper-powerbidashboard-activity-7153612355472404480-3REk?utm_source=share&utm_medium=member_desktop)
 
-Link to [Interactive Dashboard](https://www.novypro.com/project/atliq-grands-4)
+Link to [Interactive Dashboard](https://www.novypro.com/project/atliq-grands-power-bi)
 
 ## Problem statement
 
