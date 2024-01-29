@@ -48,16 +48,16 @@ As a data analyst you are responsible for working on the following tasks:
 - Occupancy Rate (OR) - 57.87%
 - Average Rating - 3.62
 - Cancellation Rate - 24.83%
-- Revenue Lost Due To Cancellations (RLDC) - 298.77 M (INR)
+- Revenue Lost Due to Cancellations (RLDC) - 298.77 M (INR)
 - Mumbai generates 39% of the total revenue followed by Bangalore (24.6%), Hyderabad (19%) and Delhi (17%)
 - Overall OR is more or less the same across all cities, Delhi is marginally the highest with 60.5%
-- OR is slightly higher on weekeneds
-- Bangalore is the city which has recieved the lowest average rating
-- AtliQ Exotica generated the highest revenue of 320 Million
+- OR is slightly higher on weekends
+- Bangalore is the city which has received the lowest average rating
+- AtliQ Exotica generated the highest revenue of 320 million
 - Atliq Blu has the highest OR of 62% with the best average rating of 3.96
-- Atliq Seasons got the worst average rating while generating the lowest revenue of 66 Million 
+- Atliq Seasons got the worst average rating while generating the lowest revenue of 66 million 
 - Most of the bookings came through third party agencies
-- Standard class rooms generated the lowest revenue per available room at 4.66K
+- Standard classed rooms generated the lowest revenue per available room at 4.66K
 
 ## New Learnings
 
