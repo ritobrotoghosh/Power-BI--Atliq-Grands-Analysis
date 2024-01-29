@@ -50,11 +50,14 @@ As a data analyst you are responsible for working on the following tasks:
 - Cancellation Rate - 24.83%
 - Revenue Lost Due To Cancellations (RLDC) - 298.77 M (INR)
 - Mumbai generates 39% of the total revenue followed by Bangalore (24.6%), Hyderabad (19%) and Delhi (17%)
-- AtliQ Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.4%.
-- AtliQ Bay has the highest occupancy of 66%
-- Week 24 recorded the highest revenue among all, which is 139.6 Million
-- Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
-- Elite type rooms has the most booking and as well higher cancellation rate
+- Overall OR is more or less the same across all cities, Delhi is marginally the highest with 60.5%
+- OR is slightly higher on weekeneds
+- Bangalore is the city which has recieved the lowest average rating
+- AtliQ Exotica generated the highest revenue of 320 Million
+- Atliq Blu has the highest OR of 62% with the best average rating of 3.96
+- Atliq Seasons got the worst average rating while generating the lowest revenue of 66 Million 
+- Most of the bookings came through third party agencies
+- Standard class rooms generated the lowest revenue per available room at 4.66K
 
 ## New Learnings
 
