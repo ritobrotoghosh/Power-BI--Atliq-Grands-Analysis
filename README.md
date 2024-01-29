@@ -56,7 +56,7 @@ As a data analyst you are responsible for working on the following tasks:
 - AtliQ Exotica generated the highest revenue of 320 million
 - Atliq Blu has the highest OR of 62% with the best average rating of 3.96
 - Atliq Seasons got the worst average rating while generating the lowest revenue of 66 million 
-- Most of the bookings came through third party agencies
+- Most of the bookings (almost 70%) came through third party agencies
 - Standard classed rooms generated the lowest revenue per available room at 4.66K
 
 ## New Learnings
